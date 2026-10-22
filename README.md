@@ -1,6 +1,6 @@
-# Hey, I'm Your Name 👋
+# Hey, I'm Anuj 👋
 
-### Software Developer | Backend Engineering | Full-Stack Development
+### SDE II | Full-Stack Development
 
 I build software, explore system architecture, and continuously improve my engineering skills through hands-on projects and problem-solving.
 
