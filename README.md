@@ -86,20 +86,10 @@ I build software, explore system architecture, and continuously improve my engin
 
 ---
 
-
-<h2 align="center">🚀 My GitHub Space Shooter</h2>
-
 <p align="center">
-  <img src="./game.gif" alt="GitHub Space Shooter Animation" width="100%">
-</p>
-
-
----
-
-<p align="center">
-  <i>Build. Learn. Improve. Repeat.</i>
+  <i>Stay awesome✌️</i>
 </p>
 
 <p align="center">
-  ⭐ Thanks for visiting my profile!
+  Gracias!
 </p>
