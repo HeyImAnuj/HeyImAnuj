@@ -85,18 +85,24 @@ I build software, explore system architecture, and continuously improve my engin
 </p>
 
 ---
+
 <h2 align="center">🐍 Watch My Contributions Come Alive!</h2>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)"
-            srcset="https://raw.githubusercontent.com/HeyImAnuj/HeyImAnuj/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)"
-            srcset="https://raw.githubusercontent.com/HeyImAnuj/HeyImAnuj/output/github-snake.svg">
-    <img alt="Animated GitHub contribution snake"
-         src="https://raw.githubusercontent.com/HeyImAnuj/HeyImAnuj/output/github-snake.svg">
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/HeyImAnuj/HeyImAnuj/output/github-snake-dark.svg">
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/HeyImAnuj/HeyImAnuj/output/github-snake.svg">
+    <img
+      alt="Animated GitHub contribution snake"
+      src="https://raw.githubusercontent.com/HeyImAnuj/HeyImAnuj/output/github-snake.svg"
+      width="100%">
   </picture>
 </p>
+
 
 ---
 
