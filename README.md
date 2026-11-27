@@ -15,16 +15,12 @@ I build software, explore system architecture, and continuously improve my engin
 
 ### Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,spring,nodejs,express" alt="HTML, CSS, React, Spring Boot, Node.js, Express" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,spring,nodejs,express,hibernate" alt="HTML, CSS, React, Spring Boot, Node.js, Express, Hibernate" />
 </p>
-
-<!-- <p>
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,express" alt="Spring Boot, Node.js, Express" />
-</p> -->
 
 ### Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,hibernate," alt="MySQL, PostgreSQL, Hibernate, JPA" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" alt="MySQL, PostgreSQL" />
 </p>
 
 ### Tools & Workflow
@@ -76,20 +72,47 @@ I build software, explore system architecture, and continuously improve my engin
 ## 🤝 Connect With Me
 
 <p>
+  <a href="https://github.com/HeyImAnuj">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
   <a href="https://my-website-two-azure.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-C7D2FE?style=for-the-badge&logo=googlechrome&logoColor=49416D" alt="Portfolio" />
-</a>
-<a href="https://www.linkedin.com/in/anujpatelmanit/?isSelfProfile=true">
-  <img src="https://img.shields.io/badge/LinkedIn-BFDBFE?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
-</a>
+    <img src="https://img.shields.io/badge/Portfolio-C7D2FE?style=for-the-badge&logo=googlechrome&logoColor=49416D" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/anujpatelmanit/">
+    <img src="https://img.shields.io/badge/LinkedIn-BFDBFE?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
+  </a>
+</p>
+
+---
+
+<h2 align="center">🐍 Watch My Contributions Come Alive!</h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+            srcset="https://raw.githubusercontent.com/HeyImAnuj/HeyImAnuj/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)"
+            srcset="https://raw.githubusercontent.com/HeyImAnuj/HeyImAnuj/output/github-snake.svg">
+    <img alt="Animated GitHub contribution snake"
+         src="https://raw.githubusercontent.com/HeyImAnuj/HeyImAnuj/output/github-snake.svg"
+         width="100%">
+  </picture>
+</p>
+
+---
+
+<h2 align="center">🚀 My GitHub Space Shooter</h2>
+
+<p align="center">
+  <img src="./game.gif" alt="GitHub Space Shooter Animation" width="100%">
 </p>
 
 ---
 
 <p align="center">
-  <i>Stay awesome✌️</i>
+  <i>Build. Learn. Improve. Repeat.</i>
 </p>
 
 <p align="center">
-  Gracias!
+  ⭐ Thanks for visiting my profile!
 </p>
